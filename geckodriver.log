@@ -1,0 +1,684 @@
+1605033941623	geckodriver	INFO	Listening on 127.0.0.1:59927
+1605033942635	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6v/qtnxndc56dlbstb_gjdf4ls00000gp/T/rust_mozprofilerOPybj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605033946309	Marionette	INFO	Listening on port 59934
+1605033946441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605033970145	Marionette	INFO	Stopped listening on port 59934
+1605033983755	geckodriver	INFO	Listening on 127.0.0.1:60133
+1605033984775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6v/qtnxndc56dlbstb_gjdf4ls00000gp/T/rust_mozprofileY7pIlF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605033988846	Marionette	INFO	Listening on port 60140
+1605033988945	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605034091393	Marionette	INFO	Stopped listening on port 60140
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605034093755	geckodriver	INFO	Listening on 127.0.0.1:60446
+1605034094770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6v/qtnxndc56dlbstb_gjdf4ls00000gp/T/rust_mozprofiled3ghPe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034098230	Marionette	INFO	Listening on port 60453
+1605034098288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605034133475	Marionette	INFO	Stopped listening on port 60453
+1605034135505	geckodriver	INFO	Listening on 127.0.0.1:60671
+1605034136521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6v/qtnxndc56dlbstb_gjdf4ls00000gp/T/rust_mozprofileVvA4wa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034140256	Marionette	INFO	Listening on port 60678
+1605034140368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605034207125	geckodriver	INFO	Listening on 127.0.0.1:60908
+1605034208149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6v/qtnxndc56dlbstb_gjdf4ls00000gp/T/rust_mozprofileQ6HZK7"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605034210599	Marionette	INFO	Stopped listening on port 60678
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605034213459	Marionette	INFO	Listening on port 60915
+1605034213551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1607701379054	geckodriver	INFO	Listening on 127.0.0.1:57955
+1607701434953	geckodriver	INFO	Listening on 127.0.0.1:57969
+1607701710765	geckodriver	INFO	Listening on 127.0.0.1:58072
+1607701711774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileWVkiIQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607701715937	Marionette	INFO	Listening on port 58083
+1607701716030	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607701866783	geckodriver	INFO	Listening on 127.0.0.1:58260
+1607701867810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileqqSLwE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607701872247	Marionette	INFO	Listening on port 58271
+1607701872338	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1607701907107	geckodriver	INFO	Listening on 127.0.0.1:58380
+1607701907123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileF9Ap7n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607701911188	Marionette	INFO	Listening on port 58389
+1607701911312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607701943387	Marionette	INFO	Stopped listening on port 58083
+1607701949018	Marionette	INFO	Stopped listening on port 58389
+1607702086169	geckodriver	INFO	Listening on 127.0.0.1:58739
+1607702086189	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile3vFwUe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702089746	Marionette	INFO	Listening on port 58748
+1607702089868	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1607702340265	geckodriver	INFO	Listening on 127.0.0.1:59550
+1607702340277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileTyfY83"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702343716	Marionette	INFO	Listening on port 59559
+1607702343807	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607702381870	geckodriver	INFO	Listening on 127.0.0.1:59833
+1607702381884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile6OXe1P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702385320	Marionette	INFO	Listening on port 59842
+1607702385397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1607702559277	Marionette	INFO	Stopped listening on port 59842
+1607702560180	Marionette	INFO	Stopped listening on port 59559
+1607702561037	Marionette	INFO	Stopped listening on port 58748
+1607702563082	geckodriver	INFO	Listening on 127.0.0.1:60717
+1607702564098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileRzketj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702567528	Marionette	INFO	Listening on port 60732
+1607702567600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1607702772533	geckodriver	INFO	Listening on 127.0.0.1:61777
+1607702772549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilegXq50W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702775883	Marionette	INFO	Listening on port 61786
+1607702775951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607702807569	geckodriver	INFO	Listening on 127.0.0.1:62024
+1607702807583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileFLKj71"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702811067	Marionette	INFO	Listening on port 62033
+1607702811197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1607702855582	geckodriver	INFO	Listening on 127.0.0.1:62359
+1607702856595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile5hOEt3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702860769	Marionette	INFO	Listening on port 62374
+1607702860874	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c, line 512: Script terminated by timeout at:
+Oo/<@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:512:418
+a/<@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:512:360
+EventListener.handleEvent*nd@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:332:477
+a@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:512:332
+Oo@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:512:391
+Lp.prototype.ib/<@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:531:84
+Id@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:337:413
+Pd@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:338:32
+Lp.prototype.ib@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:530:192
+Up/<@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:539:43
+Rn@https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF:3715:33
+ba.flush@https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF:3719:36
+ba.register@https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF:3717:52
+Sk@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:475:29
+Up@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:539:20
+Vp/<@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:538:468
+Qp@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:538:201
+Rp@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:538:234
+Vp@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:538:454
+@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:582:221
+Ub@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:311:307
+e@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:402:276
+Ji@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:403:583
+Pi@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:406:153
+Pl@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:490:236
+Ql@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:493:83
+Rl@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:493:147
+Yp@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:605:207
+@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:608:304
+@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:608:309
+@https://www.googletagmanager.com/gtag/js?id=G-SW6D8G0HXK&l=dataLayer&cx=c:610:3
+
+1607702983581	Marionette	INFO	Stopped listening on port 62374
+1607702985168	Marionette	INFO	Stopped listening on port 62033
+1607702985967	Marionette	INFO	Stopped listening on port 61786
+1607702986556	Marionette	INFO	Stopped listening on port 60732
+1607702989677	geckodriver	INFO	Listening on 127.0.0.1:63095
+1607702990697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilewf3ruU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607702994189	Marionette	INFO	Listening on port 63110
+1607702994282	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1607703050549	Marionette	INFO	Stopped listening on port 63110
+1607703052050	geckodriver	INFO	Listening on 127.0.0.1:63474
+1607703052066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofiledMfsYc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703055381	Marionette	INFO	Listening on port 63483
+1607703055480	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1607703242374	geckodriver	INFO	Listening on 127.0.0.1:64385
+1607703242390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofiledGGVWk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703245734	Marionette	INFO	Listening on port 64394
+1607703245795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703357133	geckodriver	INFO	Listening on 127.0.0.1:64989
+1607703357148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilekVwZ4G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703360828	Marionette	INFO	Listening on port 64998
+1607703360951	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1607703441355	Marionette	INFO	Stopped listening on port 64998
+1607703443306	Marionette	INFO	Stopped listening on port 64394
+1607703444179	Marionette	INFO	Stopped listening on port 63483
+1607703448163	geckodriver	INFO	Listening on 127.0.0.1:65490
+1607703449176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileywAQfi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703452570	Marionette	INFO	Listening on port 65505
+1607703452670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703475392	Marionette	INFO	Stopped listening on port 65505
+1607703477185	geckodriver	INFO	Listening on 127.0.0.1:49358
+1607703477201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileh73ppL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703480597	Marionette	INFO	Listening on port 49367
+1607703480733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703516238	Marionette	INFO	Stopped listening on port 49367
+1607703647637	geckodriver	INFO	Listening on 127.0.0.1:50308
+1607703647653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileOiMfCS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703651036	Marionette	INFO	Listening on port 50317
+1607703651084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703681800	Marionette	INFO	Stopped listening on port 50317
+1607703685999	geckodriver	INFO	Listening on 127.0.0.1:50588
+1607703686012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile8V7NAx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703690132	Marionette	INFO	Listening on port 50597
+1607703690238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703716954	Marionette	INFO	Stopped listening on port 50597
+1607703732370	geckodriver	INFO	Listening on 127.0.0.1:50888
+1607703732387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilegGtYPS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703735661	Marionette	INFO	Listening on port 50897
+1607703735784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703843289	geckodriver	INFO	Listening on 127.0.0.1:51470
+1607703843306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileeXWjrf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703846708	Marionette	INFO	Listening on port 51479
+1607703846821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607703965467	geckodriver	INFO	Listening on 127.0.0.1:52088
+1607703965483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile51s68s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607703969031	Marionette	INFO	Listening on port 52097
+1607703969111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704083924	geckodriver	INFO	Listening on 127.0.0.1:52734
+1607704083938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilehAkIO0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704087616	Marionette	INFO	Listening on port 52743
+1607704087686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704122744	geckodriver	INFO	Listening on 127.0.0.1:53015
+1607704123761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilecViIyb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704128040	Marionette	INFO	Listening on port 53031
+1607704128138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704201111	geckodriver	INFO	Listening on 127.0.0.1:53479
+1607704202127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileBxIXQS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704206292	Marionette	INFO	Listening on port 53498
+1607704206359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704279846	geckodriver	INFO	Listening on 127.0.0.1:53941
+1607704280868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileQ9ZHLn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704285144	Marionette	INFO	Listening on port 53958
+1607704285231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704343179	geckodriver	INFO	Listening on 127.0.0.1:54344
+1607704344197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilev2EFp1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704348371	Marionette	INFO	Listening on port 54361
+1607704348455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704350714	geckodriver	INFO	Listening on 127.0.0.1:54463
+1607704351722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileJXqqKj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704358873	Marionette	INFO	Listening on port 54485
+1607704358974	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2082:28
+
+1607704363229	Marionette	INFO	Stopped listening on port 54485
+1607704365820	Marionette	INFO	Stopped listening on port 54361
+1607704367561	Marionette	INFO	Stopped listening on port 53958
+1607704369072	Marionette	INFO	Stopped listening on port 53498
+1607704370369	Marionette	INFO	Stopped listening on port 53031
+1607704372109	Marionette	INFO	Stopped listening on port 52743
+1607704372851	Marionette	INFO	Stopped listening on port 52097
+1607704373548	Marionette	INFO	Stopped listening on port 51479
+1607704374349	Marionette	INFO	Stopped listening on port 50897
+1607704388156	geckodriver	INFO	Listening on 127.0.0.1:54780
+1607704388171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileSmkt1y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704391530	Marionette	INFO	Listening on port 54789
+1607704391598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704413371	geckodriver	INFO	Listening on 127.0.0.1:55013
+1607704413387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileC1JKAj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704416717	Marionette	INFO	Listening on port 55022
+1607704416801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704448181	geckodriver	INFO	Listening on 127.0.0.1:55284
+1607704448202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileSvlReC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607704456468	Marionette	INFO	Listening on port 55293
+1607704456561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 319 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~PageProductShippingFeeContent.feb390c7ff88eef25f26.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1607704477373	geckodriver	INFO	Listening on 127.0.0.1:55586
+1607704477391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileBeLLR4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704481022	Marionette	INFO	Listening on port 55595
+1607704481113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704603568	geckodriver	INFO	Listening on 127.0.0.1:56251
+1607704603584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileAGKk8F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704607423	Marionette	INFO	Listening on port 56260
+1607704607532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/default~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~a5e276c9.18a2e3cbecff71ee1a7d.js)
+1607704609618	geckodriver	INFO	Listening on 127.0.0.1:56363
+1607704610646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileT1WdV2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704616370	Marionette	INFO	Listening on port 56386
+1607704616460	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1607704627669	Marionette	INFO	Stopped listening on port 55595
+1607704628196	Marionette	INFO	Stopped listening on port 55293
+1607704628757	Marionette	INFO	Stopped listening on port 55022
+1607704629310	Marionette	INFO	Stopped listening on port 54789
+1607704682247	geckodriver	INFO	Listening on 127.0.0.1:56794
+1607704682263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileZTzBC4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704685673	Marionette	INFO	Listening on port 56803
+1607704685769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 2 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/2.e0752b0c032b477e958e.css)
+1607704688409	geckodriver	INFO	Listening on 127.0.0.1:56903
+1607704689431	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileEfcZip"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704694281	Marionette	INFO	Listening on port 56920
+1607704694376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704731331	geckodriver	INFO	Listening on 127.0.0.1:57206
+1607704731347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileQb7leZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704734738	Marionette	INFO	Listening on port 57215
+1607704734854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 3 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/default~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~5895243b.ad2f9791779a5c1af497.js)
+1607704737401	geckodriver	INFO	Listening on 127.0.0.1:57321
+1607704737428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileuAxBoI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704743407	Marionette	INFO	Listening on port 57330
+1607704743555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704743682	geckodriver	INFO	Listening on 127.0.0.1:57463
+1607704744705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofile5JjAOe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704748859	Marionette	INFO	Listening on port 57481
+1607704748947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704749091	geckodriver	INFO	Listening on 127.0.0.1:57561
+1607704750113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileZYhbSG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1607704759115	Marionette	INFO	Stopped listening on port 56920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607704760630	Marionette	INFO	Stopped listening on port 56803
+1607704789245	geckodriver	INFO	Listening on 127.0.0.1:57786
+1607704789259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilefTJgzl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607704798555	Marionette	INFO	Listening on port 57795
+1607704798619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 241 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/ProductPage.922207c12244fa5d4fcb.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+1607704817950	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607704880646	geckodriver	INFO	Listening on 127.0.0.1:58455
+1607704880664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilepYSstH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1607704886746	Marionette	INFO	Stopped listening on port 57795
+1607704966279	geckodriver	INFO	Listening on 127.0.0.1:58885
+1607704966295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileOq2LZg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704969641	Marionette	INFO	Listening on port 58894
+1607704969703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704987103	Marionette	INFO	Stopped listening on port 58894
+1607704988305	geckodriver	INFO	Listening on 127.0.0.1:59089
+1607704988321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilefagKpI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704991518	Marionette	INFO	Listening on port 59098
+1607704991621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 314 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/hash.e8541841baacc1b84f91.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+1607705049964	geckodriver	INFO	Listening on 127.0.0.1:59496
+1607705049981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileUeFTeE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705053337	Marionette	INFO	Listening on port 59505
+1607705053414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607705085514	Marionette	INFO	Stopped listening on port 59505
+1607705086357	Marionette	INFO	Stopped listening on port 59098
+1607705091459	geckodriver	INFO	Listening on 127.0.0.1:59800
+1607705091475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilepUXcHm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705095072	Marionette	INFO	Listening on port 59809
+1607705095198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 274 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/SharingV21.a230b0a9c385ed1a6db7.js)
+1607705344848	Marionette	INFO	Stopped listening on port 59809
+1607705403218	geckodriver	INFO	Listening on 127.0.0.1:61311
+1607705403234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileNGdCC6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705406520	Marionette	INFO	Listening on port 61320
+1607705406621	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607705491778	Marionette	INFO	Stopped listening on port 61320
+1607705511516	geckodriver	INFO	Listening on 127.0.0.1:61906
+1607705511533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofilemMBMVn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705515056	Marionette	INFO	Listening on port 61915
+1607705515136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+1607705556548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607705594669	Marionette	INFO	Stopped listening on port 61915
+1607705596084	geckodriver	INFO	Listening on 127.0.0.1:62455
+1607705596101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileGCiVEz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705599470	Marionette	INFO	Listening on port 62464
+1607705599519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 274 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/SharingV21.a230b0a9c385ed1a6db7.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+1607705656350	geckodriver	INFO	Listening on 127.0.0.1:62934
+1607705656366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileTNhSJD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705659827	Marionette	INFO	Listening on port 62943
+1607705659902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1607705842102	Marionette	INFO	Stopped listening on port 62943
+1607705858127	geckodriver	INFO	Listening on 127.0.0.1:63969
+1607705858142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileUjDrt3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607705861622	Marionette	INFO	Listening on port 63978
+1607705861671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 117 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/LoginByPassword.2d9bd971135391d11551.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 328 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/sentry.4d94aa50fd2d96970e65.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 313 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.85d5f9cf60d4bafaa5e1.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 313 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.85d5f9cf60d4bafaa5e1.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: Error: Loading CSS chunk 1 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1.79f1763817e1f25635ba.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 313 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.85d5f9cf60d4bafaa5e1.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 328 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/sentry.4d94aa50fd2d96970e65.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 274 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/SharingV21.a230b0a9c385ed1a6db7.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/modules~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~3edb0d78.79f1763817e1f25635ba.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 2 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/default~AddonCollectionPage~CollectionPage~EventPage~Homepage~OfficialShopPage~OfficialShopRecommend~5ddfe156.e0752b0c032b477e958e.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 274 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/SharingV21.a230b0a9c385ed1a6db7.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 332 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/332.8c341f47df41167076bd.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 332 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/332.8c341f47df41167076bd.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 332 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/332.8c341f47df41167076bd.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 332 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/332.8c341f47df41167076bd.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.059addf0ebdd36dd1573.js, line 1: ChunkLoadError: Loading chunk 332 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/332.8c341f47df41167076bd.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607706254913	Marionette	INFO	Stopped listening on port 63978
+1607706257751	Marionette	INFO	Stopped listening on port 62464
+1607785466650	geckodriver	INFO	Listening on 127.0.0.1:52225
+1607785466674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1s/1f_fzjvn1xv2lk5mt4lz28lh0000gn/T/rust_mozprofileY5Nbw0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607785471681	Marionette	INFO	Listening on port 52230
+1607785471783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607785477708	Marionette	INFO	Stopped listening on port 52230
